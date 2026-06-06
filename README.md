@@ -91,6 +91,3 @@ A diode protects the circuit from reverse polarity, while capacitors improve tim
 
 
 
-## Author
-
-**Iyappan E**
